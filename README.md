@@ -44,6 +44,7 @@ https://github.com/AbdelruhmanSamy/OctopusOS/assets/88613195/e4b596fc-5632-4a02-
 - Run make in `code` folder.
 
 ```bash
+cd code
 make
 ```
 
